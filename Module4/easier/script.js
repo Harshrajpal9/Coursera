@@ -13,7 +13,7 @@ var helloSpeaker = {
   
   // Your code to loop over names and call the appropriate function
   (function () {
-    var names = ["Howard", "Tony", "San", "Andreas", "Harry", "Stark", "Harsh", "Karlos", "Kai", "Jim"];
+    var names = ["Yaakov", "John", "Jen", "jason", "paul", "frank", "larry", "paula", "laura", "Jim"];
   
     for (var i = 0; i < names.length; i++) {
       var firstLetter = names[i].charAt(0).toLowerCase();
